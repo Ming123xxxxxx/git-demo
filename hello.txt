@@ -12,4 +12,4 @@ hello git!
 hello git!
 hello git!
 hello git!  master git!
-hello git! hot-fix git!
+hello git!  hot-fix git!
